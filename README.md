@@ -1,5 +1,5 @@
 # Todo-App
 
-- Auther: Virtual-CodeGod-Mastery
+- Auther: CodeGod-Warrior
 - Project: Todo App
 - Used programing language: HTML, CSS & JS
